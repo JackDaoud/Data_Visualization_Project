@@ -10,7 +10,7 @@ Generate a bar plot to summarize ther esults of a survey that was conducted to g
 **Part 02:**
 Generate a chloropleth map of the crime rate in San Francisco
 
-In this repository you'll find screenshots of both visualizations and the Jupyter notebook.
+In this repository you'll find screenshots of both visualizations, the Jupyter notebook, and the datasets used.
 
 **Tools used:**
 - Pandas
