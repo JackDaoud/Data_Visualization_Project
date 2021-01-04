@@ -5,15 +5,21 @@ This is a project from the course ***Data Visualization with Python*** which is 
 The project is comprised of two parts:
 
 **Part 01:**
-Generate a bar plot to summarize ther esults of a survey that was conducted to gauge an audience interest in different data science topics
+Generate a bar plot to summarize the results of a survey that was conducted to gauge audience interest in different data science topics
+
+
+<img src="Bar Graph using Artist Layer.png" width="75%">
+
 
 **Part 02:**
 Generate a chloropleth map of the crime rate in San Francisco
+
+
+<img src="Chloropeth Map using Folium.png" width="75%">
 
 In this repository you'll find screenshots of both visualizations, the Jupyter notebook, and the datasets used.
 
 **Tools used:**
 - Pandas
 - Matplotlib (Artist & Script layers)
-- For loop
 - Folium
