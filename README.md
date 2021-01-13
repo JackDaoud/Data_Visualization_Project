@@ -1,6 +1,6 @@
 # Data Visualization Project
 
-This is a project from the course ***Data Visualization with Python*** which is a part of **IBM's Data Science Professional Certificate offered on Coursera**.
+This is a project from the course ***Data Visualization with Python*** which is the 7th course of **IBM's Data Science Professional Certificate offered on Coursera**.
 
 The project is comprised of two parts:
 
